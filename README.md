@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hakanayata
-- 👀 I’m interested in Full Stack Development. 
+- 👋 Hi, I’m Hakan
+- 👀 I’m an aspiring Full Stack Developer.
 - 🌱 I’m currently learning C, Python, React, Bootstrap, Git & GitHub, Linux, Agile, Kanban...
 
 <!---
