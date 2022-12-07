@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hakan
 - 👀 I’m an aspiring Full Stack Developer.
-- 🌱 I’m currently learning C, Python, React, Bootstrap, Git & GitHub, Linux, Agile, Kanban...
+- 🌱 I’m currently learning Python, Flask, SQL, React, Bootstrap, GIT & GitHub, Linux, Agile, Kanban, C...
 
 <!---
 hakanayata/hakanayata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
