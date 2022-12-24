@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring Full Stack Developer.
 - 🌱 I’m currently learning Python, Flask, SQL, React, Bootstrap, GIT & GitHub, Linux, Agile, Kanban, C...
 
-#### Languages:
+##### Languages:
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
