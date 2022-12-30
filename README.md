@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hakan
+- 👋 Hi, I’m Hakan A.
 - 👀 I’m an aspiring Full Stack Developer.
 - 🌱 I’m currently learning Python, Flask, SQL, React, Bootstrap, GIT & GitHub, Linux, Agile, Kanban, C...
 
