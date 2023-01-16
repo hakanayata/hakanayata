@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hakan A.
 - 👀 I’m an aspiring Full Stack Developer.
-- 🌱 I’m currently learning Python, Flask, PostgreSQL, React, Bootstrap, GIT & GitHub, Agile, C..
+- 🌱 I’m currently learning Python, Flask, Django, PostgreSQL, React, Bootstrap, GIT & GitHub, Agile, C..
 
 ##### Languages:
 
