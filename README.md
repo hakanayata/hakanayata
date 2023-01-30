@@ -67,7 +67,7 @@ I'm Hakan, an aspiring software developer with a background in civil engineering
 
 ## Connect with me:
 
-- [E-Mail](mailto:hakanayata@web.de)
+- [E-Mail](mailto:info@hakanayata.com)
 - [LinkedIn](https://www.linkedin.com/in/hakan-ayata/)
 - [Personal Website](https://hakanayata.com)
 
