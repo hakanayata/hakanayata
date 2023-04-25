@@ -1,5 +1,5 @@
 # Hi there!
-I'm Hakan, an aspiring software developer with a background in civil engineering.
+I'm Hakan, an aspiring software developer with a background in civil engineering. Currently taking an online course from Harvard University => [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/).
 
 ## My Projects
 - [Refuel Tracker](https://refuel-tracker.hakanayata.com), a full-fledged web application that helps users to keep track of their refuel transactions.
