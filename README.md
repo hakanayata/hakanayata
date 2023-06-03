@@ -1,7 +1,7 @@
 # Hi there!
 I'm Hakan, an aspiring software developer with a background in civil engineering. Currently taking an online course from Harvard University ([CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/))
 
-## My Projects
+## Projects
 - [Refuel Tracker](https://refuel-tracker.hakanayata.com), a full-fledged web application that helps users to keep track of their refuel transactions.
   - Languages & Tools: Python, Flask, Jinja Templates, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Chart.js, GIT, Heroku, Postico 2
 - [CV-Generator](https://cv-generator.eu.pythonanywhere.com), a full-fledged web application that allows users to create a CV in portable document format (pdf) by filling out a form.
