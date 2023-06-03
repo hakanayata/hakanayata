@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there!
 I'm Hakan, an aspiring software developer with a background in civil engineering. Currently taking an online course from Harvard University ([CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/))
 
 ## Projects
