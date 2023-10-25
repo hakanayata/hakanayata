@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Hakan, an aspiring software developer with a background in civil engineering.
+I'm Hakan, an aspiring full stack developer with a background in civil engineering.
 
 ## Projects
 - [Refuel Tracker](https://refuel-tracker.hakanayata.com), a full-fledged web application that helps users to keep track of their refuel transactions.
