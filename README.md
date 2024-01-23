@@ -2,7 +2,7 @@
 I'm Hakan, an aspiring full stack developer with a background in civil engineering.
 
 ## Projects
-- [Refuel Tracker](https://eu-tracker.hakanayata.com), a full-fledged web application that helps users to keep track of their refuel transactions.
+- [Refuel Tracker](https://refueltracker.eu.pythonanywhere.com), a full-fledged web application that helps users to keep track of their refuel transactions.
   - Languages & Tools: Python, Flask, Jinja Templates, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Chart.js, GIT, Heroku, Postico 2
 - [Journal](https://cs50journal.eu.pythonanywhere.com), a web-based productivity-focused application that helps users create and manage their journal entries in an organized manner.
   - Languages & Tools: Python, Django, JavaScript, HTML, CSS, Bootstrap, GIT, TinyMCE Text Editor, PythonAnywhere
