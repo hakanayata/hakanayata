@@ -6,7 +6,7 @@ I'm Hakan, an aspiring full stack developer with a background in civil engineeri
   - Languages & Tools: Python, Flask, Jinja Templates, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Chart.js, GIT, Heroku, Postico 2
 - [Journal](https://cs50journal.eu.pythonanywhere.com), a web-based productivity-focused application that helps users create and manage their journal entries in an organized manner.
   - Languages & Tools: Python, Django, JavaScript, HTML, CSS, Bootstrap, GIT, TinyMCE Text Editor, PythonAnywhere
-- [CV-Generator](https://cv-generator.eu.pythonanywhere.com), a full-fledged web application that allows users to create a CV in portable document format (pdf) by filling out a form.
+- [CV-Generator](https://cv-generator.eu.pythonanywhere.com), a full-fledged web application that allows users to create a CV in portable document format (pdf) by filling out an HTML form.
   - Languages & Tools: Python, Flask, Jinja Templates, JavaScript, HTML, CSS, Bootstrap, GIT, PythonAnywhere
 
 ... and more on this GitHub profile!
