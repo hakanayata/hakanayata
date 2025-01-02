@@ -9,6 +9,8 @@ I'm Hakan, an aspiring full stack developer with a background in civil engineeri
 - [CV-Generator](https://cv-generator.eu.pythonanywhere.com), a full-fledged web application that allows users to create a CV in portable document format (pdf) by filling out an HTML form.
   - Languages & Tools: Python, Flask, Jinja Templates, JavaScript, HTML, CSS, Bootstrap, GIT, PythonAnywhere
 
+- Currently building a mobile application (primary focus on iOS) using React Native + Expo. 📱
+
 ... and more on this GitHub profile!
 
 <!-- ##### Languages:
